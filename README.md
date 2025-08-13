@@ -1,9 +1,3 @@
-<div align="center">
-  <img height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHBtOXF1M2hrNG1sMGRzc2FmamRuNGY4NWMzMzJyZHdhZzA4aHJyMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"  />
-</div>
-
-###
-
 <h1 align="center">Hi 👋, I'm Malik</h1>
 
 ###
