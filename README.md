@@ -23,7 +23,7 @@
 
 ###
 
-<h4 align="left">- 🔭 I’m working as a Full Stack Developer at Axiom Software<br>- 📚 I'm currently a Senior at NC State University<br><br>-👨‍💻 All of my projects are available at https://mdw223.github.io/Portfolio/<br><br> -📫 Reach me @[malik.code@outlook.com](mailto:malik.code@outlook.com)
+<h4 align="left">- 🔭 I’m working as a Full Stack Developer at Axiom Software<br>- 📚 I'm currently a Senior at NC State University<br><br>-👨‍💻 All of my projects are available at https://mdw223.github.io/Portfolio/<br><br> -📫 Reach me at malik.code@outlook.com
 
 
 ###
