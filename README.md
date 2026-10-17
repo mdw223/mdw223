@@ -17,7 +17,7 @@
 
 ###
 
-<h4 align="left">- 🔭 I’m working as a Full Stack Developer at Axiom Software<br>- 📚 I'm currently a Senior at NC State University<br><br>-👨‍💻 All of my projects are available at https://mdw223.github.io/malik-portfolio/<br>
+<h4 align="left">- 🔭 I’m working as an AI Agent Developer Intern at MCM Technology<br>- 📚 I'm currently a Senior at NC State University<br><br>-👨‍💻 All of my projects are available at https://mdw223.github.io/malik-portfolio/<br>
 
 
 ###
